@@ -1,0 +1,17 @@
+.siparis-formu {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  padding: 0 30%;
+  height: 100vh;
+}
+.siparis-sonuc {
+  display: flex;
+  flex-direction: column;
+}
+
+.siparisiniz-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}

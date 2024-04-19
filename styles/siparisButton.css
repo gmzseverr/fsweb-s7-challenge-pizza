@@ -1,0 +1,12 @@
+.button-siparis {
+  background-color: #fdc913 !important;
+  width: 280px;
+  height: 50px;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 18px;
+  color: #292929;
+  font-family: "Barlow", sans-serif;
+  font-weight: 600;
+  padding-top: -10%;
+}

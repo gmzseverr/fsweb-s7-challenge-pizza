@@ -1,0 +1,26 @@
+.name-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5%;
+  margin-top: 20%;
+}
+
+.name-label {
+  font-weight: bold;
+  font-size: 16px;
+  font-family: "Barlow", sans-serif;
+  text-align: left;
+  display: block;
+}
+
+#name {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#name::placeholder {
+  font-style: italic;
+  font-family: "Barlow", sans-serif;
+}

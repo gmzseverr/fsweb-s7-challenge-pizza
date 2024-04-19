@@ -1,0 +1,43 @@
+.pizza-card {
+  font-family: "Barlow", sans-serif;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.pizza-details {
+  margin-bottom: 20px;
+}
+
+.pizza-name {
+  font-size: 20px;
+  text-align: left;
+  font-weight: 600;
+}
+.price-rating {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.price-section {
+  margin-top: 10px;
+  font-size: x-large;
+  text-align: left;
+  font-weight: 700;
+}
+
+.rating-comment {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  gap: 90px;
+  font-size: small;
+}
+.description {
+  font-size: 15px;
+  color: #5f5f5f;
+  text-align: left;
+  font-family: "Barlow", sans-serif;
+}
